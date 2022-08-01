@@ -408,7 +408,7 @@
 /* section six end */
 /* section seven starts */
 .background_img{
-    background-image: url(images/Layer-2.png);
+    background-image: url('images/Layer-2.png');
 }
 .background_img .background{
     background-color: #efbf1dd6;
