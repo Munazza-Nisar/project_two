@@ -12,7 +12,9 @@
         width: auto;
         margin: 0 auto;
     }
-
+    p{
+        text-align: left !important;
+    }
     .menu ul {
         flex-direction: column;
     }
@@ -35,11 +37,11 @@
     }
 
     .section_one .content h1 {
-        font-size: 3rem;
+        font-size: 2rem !important;
     }
 
     .section_one .content p {
-        font-size: 1.7rem;
+        font-size: 1rem !important;
     }
 
     .image {
@@ -53,13 +55,13 @@
 
     .section_two .content_section_two h1 {
         width: auto;
-        font-size: 2.125rem;
+        font-size: 2rem !important;
         font-weight: 900;
         text-align: center;
     }
 
     .section_two .content_section_two p {
-        font-size: 1.5rem;
+        font-size: 1rem !important;
     }
 
     .section_two_btn {
@@ -96,7 +98,7 @@
     }
 
     .section_three_heading h1 {
-        font-size: 3.688rem;
+        font-size: 2rem !important;
     }
 
     .section_three_heading p {
@@ -232,7 +234,7 @@
 
     .section_three_heading p {
         font-size: 1.7rem;
-        padding: 0;
+        padding: 0 !important;
     }
 
     .section_three_content p {
