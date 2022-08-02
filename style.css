@@ -155,7 +155,7 @@
 .section_two{
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
+  
     padding: 7rem  0;
 }
 .section_two .content_section_two{
@@ -408,7 +408,7 @@
 /* section six end */
 /* section seven starts */
 .background_img{
-    background-image: url('images/Layer-2.png');
+    background-image: url(images/Layer-21.png);
 }
 .background_img .background{
     background-color: #efbf1dd6;
@@ -465,7 +465,7 @@
     box-shadow: 1px 1px  rgb(78, 76, 76), ;
 }
 .section_eight_card img{
-    width: 100%;
+    /* width: 100%; */
 
     margin: 0;
     padding: 0;
@@ -478,9 +478,6 @@
 
 .card_content p span{
     color: #00bec9;
-    
-}
-.card_content p{
     
 }
 .card_content a{
