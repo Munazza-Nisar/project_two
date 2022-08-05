@@ -201,29 +201,18 @@
     .section_eight_card .card_content{
         border: none;
     }
-
+    .card_content_center{
+        box-shadow: none;
+    }
     .section_eight_card {
         flex-basis: auto;
         text-align: center;
-    }
-    .footer_content .footer_block1 .footer_about ul > li{
-        text-align: left !important;
-       padding-left: 3rem !important;
-
-    }
-    .footer_content .footer_block1 .footer_services ul > li{
-        text-align: left !important;
-       padding-left: 3rem !important;
-
     }
     .footer_content .footer_block2 .search_box input {
         width: 100% !important;
     }
     .footer_content .footer_block2 .search_box a{
         padding: 1rem 0.5rem;
-    }
-    .footer_content .footer_block2 {
-        flex-basis: 82vw;
     }
 
 }
