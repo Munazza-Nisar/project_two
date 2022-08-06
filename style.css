@@ -5,7 +5,7 @@
     list-style: none;
     text-decoration: none;
     font-family: 'Poppins', sans-serif ;
-    /* color: #313243; */
+    
 }
 
 ::-webkit-scrollbar {
@@ -266,7 +266,7 @@
     text-align: end;
 }
 .section_four .content_section_four h1{
-    /* padding-left: 2rem; */
+    
     margin-top: 3rem ;
     font-size: 3.116rem;
     font-weight: 900;
@@ -485,9 +485,7 @@
     color: #00bec9;
     
 }
-.card_content p{
-    
-}
+
 .card_content a{
     color: #00bec9;
     font-weight: 500;
@@ -562,9 +560,7 @@
    
     
 }
-.footer_content .footer_block2 .search_box a img{
 
-}
 .footer_content .footer_block2 .search_box a img {
   fill: #ffffff;
 }
